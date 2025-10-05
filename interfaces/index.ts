@@ -1,5 +1,3 @@
-// interfaces/index.ts
-
 export interface Address {
   state: string;
   city: string;
@@ -21,4 +19,5 @@ export interface PropertyProps {
   offers: Offers;
   image: string;
   discount: string;
+  description: string;
 }
