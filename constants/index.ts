@@ -8,7 +8,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     category: ["Luxury Villa", "Pool", "Free Parking"],
     price: 3200,
     offers: { bed: "3", shower: "3", occupants: "4-6" },
-    image: "/Users/sirwanjohi/Desktop/ALX-ProDev/alx-listing-app-01/public/assets/apartment.jpg",
+    image: "/Users/sirwanjohi/Desktop/ALX-ProDev/alx-listing-app-01/public/assets/testurl.jpeg",
     discount: "",
     description:
       "Experience tropical paradise in this luxurious Bali villa with a private pool and breathtaking ocean breeze views.",
@@ -20,7 +20,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     category: ["Mountain View", "Fireplace", "Self Checkin"],
     price: 1800,
     offers: { bed: "4", shower: "2", occupants: "5-7" },
-    image: "https://example.com/image2.jpg",
+    image: "/Users/sirwanjohi/Desktop/ALX-ProDev/alx-listing-app-01/public/assets/apartment.webp",
     discount: "30",
     description:
       "A cozy wooden chalet nestled in the Rockies with scenic mountain views and a warm fireplace for ultimate comfort.",

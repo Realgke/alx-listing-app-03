@@ -13,6 +13,7 @@ const PropertyCard: React.FC<PropertyProps> = ({
         <h2 className="font-semibold text-lg">{name}</h2>
         <p className="text-gray-500">${price}/night</p>
         <p className="text-yellow-500">⭐ {rating}</p>
+        <h1>Sir Wanjohi</h1>
       </div>
     </div>
   );
